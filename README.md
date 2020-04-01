@@ -1,2 +1,2 @@
-# IF3270-Clustering-Algortihm
-Implementation of K-Means algorithm and Agglomerative hierachical clustering algortihm.
+# IF3270-Clustering-Algorithm
+Implementation of K-Means clustering and Agglomerative hierachical clustering algortihm.
